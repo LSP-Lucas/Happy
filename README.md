@@ -4,7 +4,7 @@ Projeto criado na semana Next Level Week - NLW para cadastro de orfanatos em pon
 
 <img src="https://ik.imagekit.io/mqh5rdpeme/happy_bbxrgiuEW.png">
 
-### 🚀  Tecnologias Utilizadas
+## 🚀  Tecnologias Utilizadas
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/ "Node.js")
@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [TypeScript](https://www.typescriptlang.org/ "TypeScript")
 
 
-### 💻 Projeto
+## 💻 Projeto
 O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz.
 
 <img src="https://ik.imagekit.io/mqh5rdpeme/nlw_3iNkRgyYB.png">
