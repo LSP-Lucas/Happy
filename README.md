@@ -7,11 +7,11 @@ Projeto criado na semana Next Level Week - NLW para cadastro de orfanatos em pon
 ### 🚀  Tecnologias Utilizadas
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-[Node.js](https://nodejs.org/en/ "Node.js")
-[React](https://reactjs.org/ "React")
-[React Native](https://reactnative.dev/ "React Native")
-[Expo](https://expo.io/ "Expo")
-[TypeScript](https://www.typescriptlang.org/ "TypeScript")
+- [Node.js](https://nodejs.org/en/ "Node.js")
+- [React](https://reactjs.org/ "React")
+- [React Native](https://reactnative.dev/ "React Native")
+- [Expo](https://expo.io/ "Expo")
+- [TypeScript](https://www.typescriptlang.org/ "TypeScript")
 
 
 ### 💻 Projeto
